@@ -686,7 +686,7 @@ Main --> Printer
 |\[ \begin{+matrix+}{m=2}\\ {c=-1}\\{t=1.2}\\{b=0.7}\end{+matrix+} \]
 |Дата і час з точністю до мілісекунд
 ^|15
-| \[y=btg^2 x+ ae^{-\sqrt a}; \space d = cos(bx/a) - \frac {a}{sin^2 (x/a)} \]
+| \[y=b\cdot tg^2 x+ ae^{-\sqrt a}; \space d = cos(b\cdot x/a) - \frac {a}{sin^2 (x/a)} \]
 |\[ \begin{+matrix+}{a=3.2}\\{b=17.5}\\{x=-4.8}\end{+matrix+} \]
 |Час у форматі гг:хх:сс
 |===
